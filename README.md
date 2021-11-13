@@ -26,7 +26,11 @@
 ## 结
 
 如果对修改说明不理解，欢迎访问我的个人博客[https://aeneag.xyz](https://aeneag.xyz)
+
 <center>公众号'技术乱舞'</center>
+
 <img style="height: 240px;width: 240px; " src="https://b3logfile.com/file/2021/11/qrcode_for_gh_6991d24e23e2_344-91ebc4df.jpg" alt="个人公众号">
+
 <center>个人微信</center>
+
 <img style="height: 240px;width: 240px; " src="https://b3logfile.com/file/2021/11/WechatIMG91-dc5e5be8.jpeg" alt="个人微信">
